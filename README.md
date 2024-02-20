@@ -21,6 +21,7 @@ Meu primeiro contato na área da tecnologia foi em PHP há mais de 3 anos. Sou d
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&link=https://postgresql.org)](https://postgresql.org)
 [![Sqlite Badge](https://img.shields.io/badge/-Sqlite-336791?style=flat-square&logo=sqlite&logoColor=white&link=https://postgresql.org)](https://postgresql.org)
 ![PHP Badge](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white)
+![Typescript Badge](https://img.shields.io/badge/-Typescript-8993BE?style=flat-square&logo=php&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white)
 
 ---
